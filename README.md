@@ -26,7 +26,7 @@ yarn start
 npm start
 ```
 
-## Notes
+## Next improvements
 
 - add unit and integration tests (**Jest** and **Cypress**)
 - move logic for managing **Jobs** and **Notes** into two separate stores - **jobsStore** and **notesStore**. Initiate them inside of the main **rootStore** and pass references of each other.
