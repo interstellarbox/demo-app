@@ -28,5 +28,8 @@ npm start
 
 ## Next improvements
 
+- add propTypes checking
+- add editable values validation
+- add confirm modals or pop ups
 - add unit and integration tests (**Jest** and **Cypress**)
 - move logic for managing **Jobs** and **Notes** into two separate stores - **jobsStore** and **notesStore**. Initiate them inside of the main **rootStore** and pass references of each other.
